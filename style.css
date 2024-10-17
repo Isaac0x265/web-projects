@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.page{
+  box-sizing: border-box;
+  height: 3279px;
+  width: 1280px;
+  margin: auto;
+  
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+  
+}
+.descubra{
+  margin-top: 24px;
+  
+}
+#footer{
+  margin-top: 48px;
+  color:red
+}
+h2{
+  color: red
+}
